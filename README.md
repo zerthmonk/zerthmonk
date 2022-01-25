@@ -1,6 +1,6 @@
 __Hi there!__
 
-here comes bunch of badges...
+My name is Dmitri, I like to build things, and still learning to do it with a style :)
 
 #### can do:
 
