@@ -6,7 +6,7 @@
 - **Tools**: RabbitMQ, Docker, CI/CD, Git
 
 #### Experience
-- Over 2 years of commercial development experience.
+- 3+ years of commercial development experience.
 - Main profile: development of web applications, automation of operational tasks, integration with third-party services.
 
 ### Competencies
